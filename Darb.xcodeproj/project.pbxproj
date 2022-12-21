@@ -7,18 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		171A57292951EDE900820CC1 /* profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A57282951EDE900820CC1 /* profile.swift */; };
+		171A572B2951F23100820CC1 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 171A572A2951F23100820CC1 /* Launch Screen.storyboard */; };
+		171A572D2951F59D00820CC1 /* LunchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A572C2951F59D00820CC1 /* LunchScreen.swift */; };
+		174B2BFC295314FE00A0098C /* AuthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174B2BFB295314FE00A0098C /* AuthView.swift */; };
 		1754E99A2940F8F1001883E4 /* DarbApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1754E9992940F8F1001883E4 /* DarbApp.swift */; };
 		1754E99C2940F8F1001883E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1754E99B2940F8F1001883E4 /* ContentView.swift */; };
 		1754E99E2940F8F2001883E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1754E99D2940F8F2001883E4 /* Assets.xcassets */; };
 		1754E9A12940F8F2001883E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1754E9A02940F8F2001883E4 /* Preview Assets.xcassets */; };
+		1754E9A829410EED001883E4 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1754E9A729410EED001883E4 /* SwiftUIView.swift */; };
+		1754E9AC29412F80001883E4 /* Amiri-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1754E9AB29412F80001883E4 /* Amiri-Regular.ttf */; };
+		1754E9AE29414219001883E4 /* Amiri-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1754E9AD29414219001883E4 /* Amiri-Bold.ttf */; };
+		17804BE0294F385C00A09A4C /* loc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17804BDF294F385C00A09A4C /* loc.swift */; };
+		17804BE229508D0C00A09A4C /* bankAlblad_Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17804BE129508D0C00A09A4C /* bankAlblad_Page.swift */; };
+		17804BE62950B2CB00A09A4C /* onborarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17804BE52950B2CB00A09A4C /* onborarding.swift */; };
+		17804BE82951DAB600A09A4C /* Detailsof .swift in Sources */ = {isa = PBXBuildFile; fileRef = 17804BE72951DAB600A09A4C /* Detailsof .swift */; };
+		17804BEB2951DB4400A09A4C /* iPhoneNumberField in Frameworks */ = {isa = PBXBuildFile; productRef = 17804BEA2951DB4400A09A4C /* iPhoneNumberField */; };
+		17804BEE2951DB5E00A09A4C /* iTextField in Frameworks */ = {isa = PBXBuildFile; productRef = 17804BED2951DB5E00A09A4C /* iTextField */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		171A57282951EDE900820CC1 /* profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profile.swift; sourceTree = "<group>"; };
+		171A572A2951F23100820CC1 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		171A572C2951F59D00820CC1 /* LunchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunchScreen.swift; sourceTree = "<group>"; };
+		174B2BFB295314FE00A0098C /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
 		1754E9962940F8F1001883E4 /* Darb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Darb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1754E9992940F8F1001883E4 /* DarbApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarbApp.swift; sourceTree = "<group>"; };
 		1754E99B2940F8F1001883E4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1754E99D2940F8F2001883E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1754E9A02940F8F2001883E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1754E9A729410EED001883E4 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		1754E9AB29412F80001883E4 /* Amiri-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amiri-Regular.ttf"; sourceTree = "<group>"; };
+		1754E9AD29414219001883E4 /* Amiri-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amiri-Bold.ttf"; sourceTree = "<group>"; };
+		17804BDF294F385C00A09A4C /* loc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loc.swift; sourceTree = "<group>"; };
+		17804BE129508D0C00A09A4C /* bankAlblad_Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bankAlblad_Page.swift; sourceTree = "<group>"; };
+		17804BE52950B2CB00A09A4C /* onborarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onborarding.swift; sourceTree = "<group>"; };
+		17804BE72951DAB600A09A4C /* Detailsof .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detailsof .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +50,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17804BEE2951DB5E00A09A4C /* iTextField in Frameworks */,
+				17804BEB2951DB4400A09A4C /* iPhoneNumberField in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,8 +77,17 @@
 		1754E9982940F8F1001883E4 /* Darb */ = {
 			isa = PBXGroup;
 			children = (
+				1754E9AA29412F4A001883E4 /* Font */,
 				1754E9992940F8F1001883E4 /* DarbApp.swift */,
 				1754E99B2940F8F1001883E4 /* ContentView.swift */,
+				171A572C2951F59D00820CC1 /* LunchScreen.swift */,
+				17804BE52950B2CB00A09A4C /* onborarding.swift */,
+				174B2BFB295314FE00A0098C /* AuthView.swift */,
+				17804BDF294F385C00A09A4C /* loc.swift */,
+				1754E9A729410EED001883E4 /* SwiftUIView.swift */,
+				17804BE129508D0C00A09A4C /* bankAlblad_Page.swift */,
+				17804BE72951DAB600A09A4C /* Detailsof .swift */,
+				171A57282951EDE900820CC1 /* profile.swift */,
 				1754E99D2940F8F2001883E4 /* Assets.xcassets */,
 				1754E99F2940F8F2001883E4 /* Preview Content */,
 			);
@@ -65,6 +100,16 @@
 				1754E9A02940F8F2001883E4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1754E9AA29412F4A001883E4 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				171A572A2951F23100820CC1 /* Launch Screen.storyboard */,
+				1754E9AD29414219001883E4 /* Amiri-Bold.ttf */,
+				1754E9AB29412F80001883E4 /* Amiri-Regular.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +128,10 @@
 			dependencies = (
 			);
 			name = Darb;
+			packageProductDependencies = (
+				17804BEA2951DB4400A09A4C /* iPhoneNumberField */,
+				17804BED2951DB5E00A09A4C /* iTextField */,
+			);
 			productName = Darb;
 			productReference = 1754E9962940F8F1001883E4 /* Darb.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +160,10 @@
 				Base,
 			);
 			mainGroup = 1754E98D2940F8F1001883E4;
+			packageReferences = (
+				17804BE92951DB4400A09A4C /* XCRemoteSwiftPackageReference "iPhoneNumberField" */,
+				17804BEC2951DB5E00A09A4C /* XCRemoteSwiftPackageReference "iTextField" */,
+			);
 			productRefGroup = 1754E9972940F8F1001883E4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +180,9 @@
 			files = (
 				1754E9A12940F8F2001883E4 /* Preview Assets.xcassets in Resources */,
 				1754E99E2940F8F2001883E4 /* Assets.xcassets in Resources */,
+				1754E9AE29414219001883E4 /* Amiri-Bold.ttf in Resources */,
+				171A572B2951F23100820CC1 /* Launch Screen.storyboard in Resources */,
+				1754E9AC29412F80001883E4 /* Amiri-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +194,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1754E99C2940F8F1001883E4 /* ContentView.swift in Sources */,
+				171A57292951EDE900820CC1 /* profile.swift in Sources */,
+				17804BE229508D0C00A09A4C /* bankAlblad_Page.swift in Sources */,
+				17804BE82951DAB600A09A4C /* Detailsof .swift in Sources */,
+				171A572D2951F59D00820CC1 /* LunchScreen.swift in Sources */,
 				1754E99A2940F8F1001883E4 /* DarbApp.swift in Sources */,
+				174B2BFC295314FE00A0098C /* AuthView.swift in Sources */,
+				17804BE62950B2CB00A09A4C /* onborarding.swift in Sources */,
+				17804BE0294F385C00A09A4C /* loc.swift in Sources */,
+				1754E9A829410EED001883E4 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +333,14 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Darb/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Darb/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We would like access o your location";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "We would like access o your location";
+				INFOPLIST_KEY_NSLocationUsageDescription = "We would like access o your location";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We would like access o your location";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -297,6 +369,14 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Darb/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Darb/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We would like access o your location";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "We would like access o your location";
+				INFOPLIST_KEY_NSLocationUsageDescription = "We would like access o your location";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We would like access o your location";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -337,6 +417,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		17804BE92951DB4400A09A4C /* XCRemoteSwiftPackageReference "iPhoneNumberField" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/MojtabaHs/iPhoneNumberField.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.9.0;
+			};
+		};
+		17804BEC2951DB5E00A09A4C /* XCRemoteSwiftPackageReference "iTextField" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/benjaminsage/iTextField.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.8;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		17804BEA2951DB4400A09A4C /* iPhoneNumberField */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 17804BE92951DB4400A09A4C /* XCRemoteSwiftPackageReference "iPhoneNumberField" */;
+			productName = iPhoneNumberField;
+		};
+		17804BED2951DB5E00A09A4C /* iTextField */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 17804BEC2951DB5E00A09A4C /* XCRemoteSwiftPackageReference "iTextField" */;
+			productName = iTextField;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 1754E98E2940F8F1001883E4 /* Project object */;
 }
